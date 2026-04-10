@@ -1,4 +1,4 @@
-# Magic Podcast
+# Magic Talks
 
 Komplette Podcast-Pipeline für den DACH-Raum.
 

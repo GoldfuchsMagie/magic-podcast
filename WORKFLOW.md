@@ -1,4 +1,4 @@
-# Magic Podcast — Kompletter Workflow
+# Magic Talks — Kompletter Workflow
 
 > Von der Aufnahme bis Millionen Views auf allen Plattformen.
 
@@ -313,9 +313,9 @@ curl -X POST https://api.transistor.fm/v1/episodes \
 - [ ] Playlist: Episode zur Podcast-Playlist hinzufügen
 
 **Titel-Formate die funktionieren:**
-- "[Emotionaler Hook] — [Gast] | Magic Podcast #001"
+- "[Emotionaler Hook] — [Gast] | Magic Talks #001"
 - "Warum 95% bei [Thema] scheitern (und wie Du es richtig machst)"
-- "[Gast]: [Kontroverse Aussage] | Magic Podcast"
+- "[Gast]: [Kontroverse Aussage] | Magic Talks"
 
 **Beschreibungs-Template:**
 ```
@@ -340,7 +340,7 @@ Apple Podcasts: [Link]
 📚 Erwähnte Ressourcen:
 [Bücher, Tools, Links]
 
-👉 Folge Magic Podcast:
+👉 Folge Magic Talks:
 Instagram: @handle
 TikTok: @handle
 
