@@ -2,6 +2,16 @@
 
 > Von der Aufnahme bis Millionen Views auf allen Plattformen.
 
+## Host & Kanal
+
+| | |
+|---|---|
+| **Host** | Jonas Schiffmann |
+| **YouTube** | @millionenchemiker |
+| **Zielgruppe** | DACH-Raum (Schweiz, Deutschland, Österreich) |
+| **Sprache** | Deutsch |
+| **Strategie** | Growth Hacking + Multi-Plattform Dominanz |
+
 ---
 
 ## Übersicht: Die Pipeline
@@ -481,10 +491,88 @@ Live auf allen Plattformen 🎙
 
 ---
 
+## Phase 7: DACH Growth Hacking Playbook
+
+### Schnelles Wachstum im deutschsprachigen Raum
+
+**Vorteil DACH:** Weniger Konkurrenz als US-Markt, aber kaufkräftige Zielgruppe mit hoher Podcast-Affinität. Deutschland hat 15+ Mio. regelmässige Podcast-Hörer, Schweiz ~2 Mio., Österreich ~1.5 Mio.
+
+### Growth Hack #1 — YouTube Shorts → Podcast Funnel
+- Jeden Tag 1-3 Shorts aus der Episode auf @millionenchemiker posten
+- Shorts mit Hook-Untertiteln in Gelb/Gold (Branding)
+- CTA: "Ganze Episode im Podcast — Link in Bio"
+- Shorts sind der #1 Discovery-Kanal für neue Hörer im DACH-Raum
+
+### Growth Hack #2 — Gast-Netzwerk-Effekt
+- Gäste mit eigener Community einladen (10K+ Follower)
+- Gast teilt Episode → sofortiger Zugang zu deren Audience
+- Jeder Gast bringt 5-15% seiner Follower als neue Hörer
+- Nach dem Interview: Clips taggen, Gast taggen → viraler Loop
+
+### Growth Hack #3 — SEO-Transkripte
+- Jede Episode als Blog-Artikel auf eigener Website veröffentlichen
+- 5'000-15'000 Wörter SEO-Content PRO EPISODE (gratis!)
+- Google rankt Podcast-Transkripte für Long-Tail Keywords
+- Nach 50 Episoden: 500'000+ Wörter indexiert = organischer Traffic-Maschine
+
+### Growth Hack #4 — Cross-Posting Strategie
+- Gleicher Clip, 6 Plattformen, leicht angepasst:
+  - YouTube Shorts: Hook + CTA zum Kanal
+  - TikTok: Trending Sound unterlegen wenn passend
+  - Instagram Reels: Carousel-Slide am Ende mit Key Takeaway
+  - LinkedIn: Business-Framing, Text-Post + Video
+  - X/Twitter: Kontroverser Ausschnitt, Thread dazu
+  - Facebook Reels: Gleich wie Instagram, extra Reichweite
+
+### Growth Hack #5 — Newsletter als Retention-Waffe
+- GetResponse Welcome Sequence: 5 Emails mit besten Episoden
+- Jede Woche: "Top 3 Insights" aus der neuen Episode
+- Hörer die Email öffnen = 3x wahrscheinlicher regelmässige Hörer
+- Newsletter-Abonnenten als Custom Audience für Ads (wenn gewünscht)
+
+### Growth Hack #6 — Algorithmus-Hacks pro Plattform
+
+**YouTube:**
+- Erste 48h entscheiden über den Erfolg → alle Kanäle gleichzeitig pushen
+- Community Tab nutzen: Poll vor der Episode ("Welches Thema interessiert Euch?")
+- Playlists nach Themen, nicht nach Nummern
+- Thumbnail A/B Testing (nach 48h ändern wenn CTR < 4%)
+
+**Spotify:**
+- Episode-Titel mit Keywords die Leute suchen
+- In die richtige Kategorie eintragen (Charts-Ranking)
+- Spotify Q&A Feature nutzen für Listener-Engagement
+- Erste 30 Sekunden = Hook, kein langweiliges Intro
+
+**Apple Podcasts:**
+- Bewertungen aktiv in jeder 3. Episode anfragen
+- "Neuer & Bemerkenswerter" Bereich = erste 8 Wochen sind kritisch
+- Konsistenter Release-Schedule signalisiert dem Algorithmus Aktivität
+
+**TikTok (DACH):**
+- Deutsche Hashtags: #podcast #podcastdeutsch #motivation #persönlichkeitsentwicklung
+- Posting-Zeit: 10:00 + 19:00 MEZ (Mittagspause + Feierabend)
+- Reply auf Kommentare mit Video (Algorithmus-Boost)
+- Duett/Stitch mit anderen Creators im gleichen Themenfeld
+
+### KPIs & Meilensteine
+
+| Meilenstein | Downloads/Ep | YouTube Views/Mo | Timeline |
+|------------|-------------|-----------------|----------|
+| Launch | 0 | 0 | Monat 1 |
+| Traction | 100-500 | 5'000-20'000 | Monat 2-3 |
+| Growth | 500-2'000 | 20'000-100'000 | Monat 4-6 |
+| Momentum | 2'000-5'000 | 100'000-500'000 | Monat 6-12 |
+| Scale | 5'000-20'000 | 500'000-2'000'000 | Monat 12-24 |
+| Authority | 20'000+ | 2'000'000+ | Monat 24+ |
+
+**Wichtigste Regel:** Jede Woche eine Episode. 52 Wochen am Stück. Keine Ausnahmen. Konsistenz schlägt Perfektion.
+
+---
+
 ## Nächste Schritte
 
 1. **Podcast-Name + Branding** festlegen
 2. **Transistor.fm Account** erstellen
-3. **YouTube-Kanal** einrichten (oder bestehenden verwenden)
-4. **Automations-Scripts** bauen (ich mache das)
-5. **Erste Episode** aufnehmen und durch die Pipeline jagen
+3. **Automations-Scripts** bauen (ich mache das)
+4. **Erste Episode** aufnehmen und durch die Pipeline jagen
